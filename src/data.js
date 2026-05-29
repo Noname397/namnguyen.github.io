@@ -17,7 +17,7 @@ export const personal = {
     "Currently expanding into DevOps, exploring Docker, CI/CD pipelines, and cloud deployments. I believe good software is built with clarity, tested with care, and shipped with confidence.",
   ],
   email: "namnguyennhat908@gmail.com",
-  github: "https://github.com/namnguyen",        // update with your actual GitHub URL
+  github: "https://github.com/noname397",        // update with your actual GitHub URL
   linkedin: "https://linkedin.com/in/namnguyen", // update with your actual LinkedIn URL
   resumeFile: "/resume.pdf",                      // place your resume PDF in /public/resume.pdf
 };
