@@ -4,17 +4,17 @@
 
 export const personal = {
   name: "Nam Nguyen",
-  title: "Full-Stack Developer",
+  title: "QA Automation Engineer",
   // Rotating subtitles in the hero — add or remove as you like
   typedPhrases: [
+    "QA Automation Engineer",
     "Full-Stack Developer",
     "Frontend Engineer",
     "Backend Builder",
-    "QA Automation Enthusiast",
     "DevOps Learner",
   ],
   bio: [
-    "I'm a Full-Stack Developer based in Canada with a passion for building efficient, scalable, and user-friendly applications. I work across the entire stack — from designing database schemas to crafting responsive UIs.",
+    "I'm a QA Automation Engineer based in Canada with a background in software development and a passion for building reliable, high-quality software. I work on automated testing, quality assurance, and web applications, helping teams deliver robust products with confidence.",
     "Currently expanding into DevOps, exploring Docker, CI/CD pipelines, and cloud deployments. I believe good software is built with clarity, tested with care, and shipped with confidence.",
   ],
   email: "namnguyennhat908@gmail.com",
