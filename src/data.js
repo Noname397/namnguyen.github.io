@@ -10,6 +10,7 @@ export const personal = {
     "Full-Stack Developer",
     "Frontend Engineer",
     "Backend Builder",
+    "QA Automation Enthusiast",
     "DevOps Learner",
   ],
   bio: [
@@ -18,7 +19,7 @@ export const personal = {
   ],
   email: "namnguyennhat908@gmail.com",
   github: "https://github.com/noname397",        // update with your actual GitHub URL
-  linkedin: "https://linkedin.com/in/namnguyen", // update with your actual LinkedIn URL
+  linkedin: "https://www.linkedin.com/in/nhat-nam-ng/", // update with your actual LinkedIn URL
   resumeFile: "/resume.pdf",                      // place your resume PDF in /public/resume.pdf
 };
 
@@ -54,22 +55,34 @@ export const skillCategories = [
 export const experience = [
   {
     type: "work",
-    role: "Full-Stack Developer",
+    role: "QA Automation Engineer Co-op",
     company: "Thirdstream",
-    date: "2024 — Present",
+    date: "May 2026 — Present",
     bullets: [
-      "Built and maintained web applications used by thousands of users",
-      "Developed RESTful APIs and integrated third-party services",
-      "Collaborated with cross-functional teams in an Agile environment",
+      "Bullet 1",
+      "Bullet 2",
+      "Bullet 3",
     ],
-    tags: ["React", "Node.js", "PostgreSQL"],
+    tags: ["Playwright", "Automation"],
+  },
+  {
+    type: "work",
+    role: "Software Developer Co-op",
+    company: "Miru",
+    date: "May 2025 — December 2025",
+    bullets: [
+      "Bullet 1",
+      "Bullet 2",
+      "Bullet 3",
+    ],
+    tags: ["Playwright", "Automation"],
   },
   // Duplicate the block above to add more jobs ↑
   {
     type: "education",
-    role: "Bachelor's in Computer Science",     // update your degree
-    company: "Your University Name",            // update your school
-    date: "20XX — 20XX",
+    role: "Bachelor of Science in Computer Science and Mathematics",     
+    company: "University of British Columbia",            
+    date: "September 2022 — Current",
     bullets: [
       "Relevant coursework: Data Structures, Algorithms, Databases, Web Development",
     ],

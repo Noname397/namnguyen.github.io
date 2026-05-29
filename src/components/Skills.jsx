@@ -2,7 +2,7 @@ import { skillCategories } from "../data";
 
 export default function Skills() {
   return (
-    <section id="skills" className="py-24 bg-dark-900">
+    <section id="skills" className="py-24 bg-dark-900 px-6">
       <div className="section-container">
         <h2 className="text-3xl sm:text-4xl font-bold text-white">
           Tech <span className="text-accent">Stack</span>

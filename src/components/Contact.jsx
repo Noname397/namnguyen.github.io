@@ -12,7 +12,7 @@ export default function Contact() {
     // 1. Sign up at formspree.io → create a form → copy the endpoint URL
     // 2. Replace the fetch URL below with your endpoint
     try {
-      const res = await fetch("https://formspree.io/f/YOUR_FORM_ID", {
+      const res = await fetch("https://formspree.io/f/xwvzznzb", {
         method: "POST",
         headers: { "Content-Type": "application/json", Accept: "application/json" },
         body: JSON.stringify(form),
@@ -29,7 +29,7 @@ export default function Contact() {
   };
 
   return (
-    <section id="contact" className="py-24 bg-dark-800">
+    <section id="contact" className="py-24 bg-dark-800 px-6">
       <div className="section-container">
         <h2 className="text-3xl sm:text-4xl font-bold text-white">
           Get In <span className="text-accent">Touch</span>

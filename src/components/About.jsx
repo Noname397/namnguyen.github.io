@@ -2,7 +2,7 @@ import { personal, stats } from "../data";
 
 export default function About() {
   return (
-    <section id="about" className="py-24 bg-dark-800">
+    <section id="about" className="py-24 bg-dark-800 px-6">
       <div className="section-container">
         <SectionTitle>About <span className="text-accent">Me</span></SectionTitle>
 
